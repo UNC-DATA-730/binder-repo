@@ -9,3 +9,4 @@ dependencies:
   - r-palmerpenguins
   - r-islr2
   - jupyterlab-git
+  - nbgitpuller
