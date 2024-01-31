@@ -11,3 +11,4 @@ dependencies:
   - r-islr2
   - jupyterlab-git
   - r-moderndive
+  - nbgitpuller
