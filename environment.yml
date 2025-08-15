@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - chuckpr
 dependencies:
-  - r-base=4.3.3
+  - r-base
   - r-tidymodels
   - r-tidyverse
   - r-irkernel
