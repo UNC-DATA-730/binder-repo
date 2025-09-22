@@ -12,3 +12,7 @@ dependencies:
   - jupyterlab-git
   - r-moderndive
   - nbgitpuller
+  - pandas
+  - scikit-learn
+  - plotnine
+  - altair
